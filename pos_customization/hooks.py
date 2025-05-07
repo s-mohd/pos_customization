@@ -245,3 +245,6 @@ app_license = "mit"
 # 	"Logging DocType Name": 30  # days to retain logs
 # }
 
+# app_include_js = ["/assets/pos_customization/js/pos.js"]
+page_js = {"point-of-sale": ["public/js/pos.js"]}
+# app_include_js = "/assets/pos_customization/js/custom_pos.bundle.js"
